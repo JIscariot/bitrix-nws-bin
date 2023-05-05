@@ -1,5 +1,5 @@
 {
-    "name": "poukh/bitrix-nws-bin",
+    "name": "jiscariot/bitrix-nws-bin",
     "autoload": {
         "psr-4": {
             "Poukh\\BitrixNwsBin\\": "src/"
