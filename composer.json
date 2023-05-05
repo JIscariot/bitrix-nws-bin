@@ -1,0 +1,15 @@
+{
+    "name": "poukh/bitrix-nws-bin",
+    "autoload": {
+        "psr-4": {
+            "Poukh\\BitrixNwsBin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "poukh",
+            "email": "poukh@newit.by"
+        }
+    ],
+    "require": {}
+}
