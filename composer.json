@@ -1,5 +1,6 @@
 {
     "name": "jiscariot/bitrix-nws-bin",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Poukh\\BitrixNwsBin\\": "src/"
